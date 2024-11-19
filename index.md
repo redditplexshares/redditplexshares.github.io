@@ -10,7 +10,7 @@ If you are a provider and would like to be added/removed from the list please su
 This website is managed by an independent person who is not affiliated with any of the providers mentioned below.
 
 ### Duck Entertainment
-- Products: Emby Shares, Plex Shares, TV
+- Products: PlexShares, Plex Shares, TV
 - Discord - [https://discord.iduck.xyz]([https://discord.gg/y8jRNZC6hS](https://discord.iduck.xyz/?mtm_campaign=Discord%20link))
 - Whatsaps - 16602235880
 - Website - [Duck](http://www.ducktv.ing)
@@ -23,7 +23,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 
 ### SuitsPlex
-- Products: Emby Shares, Plex Shares
+- Products: PlexShares, Plex Shares
 - Discord - [https://discord.gg/jCh9QsyxUH](https://discord.gg/7fX42VD)
 - Telegram
 - Content - 25K M, 10K TV Shows / Anime, Kids, 4K
@@ -33,7 +33,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Payment type - Paypal, Crypto
 
 ### Project Valhalla
-- Products: Emby Shares, Plex Appboxes
+- Products: PlexShares, Plex Appboxes
 - Website - [https://projectvalhalla.eu/](https://projectvalhalla.eu/)
 - Discord - No longer valid as of 01/2024
 - Content - 56K M, 8.5K TV Shows / Anime, Kids
@@ -43,7 +43,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Payment type - PayPal 
 
 ### Diamond Media
-- Products: Emby Shares, Plex Appboxes
+- Products: PlexShares, Plex Appboxes
 - Discord - [https://discord.gg/DNJCD7y](https://discord.gg/DNJCD7y)
 - Content - 73K M, 21K TV Shows / 4K, 4K DV, Anime
 - Server location - EU & US
@@ -52,7 +52,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Payment type - Paypal, Crypto
 
 ### C-MEDIA
-- Products: Plex & Emby shares
+- Products: Plex & Plexshares
 - Discord - [https://discord.gg/PFc3KkyT](https://discord.gg/PFc3KkyT)
 - Content - 70K M, 20K TV Shows / 4K, 4K DV, Kids TV, Anime
 - Server location - US
@@ -61,7 +61,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Payment type - Paypal, Crypto
 
 ### Founder Plex
-- Products: Plex, Jellyfin and Emby shares
+- Products: Plex, Jellyfin and Plexshares
 - Discord - Need new link !
 - Content - 33K M, 9K TV Shows / 4K, Kids
 - Server location - US & NL
@@ -70,7 +70,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Payment type - Paypal, Crypto
 
 ### Rogue Streamz
-- Products: Emby & Plex Appboxes and Shares
+- Products: Plex& Plex Appboxes and Shares
 - Website - Need new link !
 - Discord -  Need new link !
 - Content - 24K M, 10K TV Shows / 4K, Anime, Kids
@@ -91,3 +91,4 @@ This website is managed by an independent person who is not affiliated with any 
 If you are a provider please submit a request at: [Discord](https://discord.gg/4d9q4cyMbD).
 
 Clones from Shares, to keep updated 
+redditplexshares
