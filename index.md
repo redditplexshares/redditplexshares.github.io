@@ -21,16 +21,6 @@ This website is managed by an independent person who is not affiliated with any 
 - Payment type - Paypal, Crypto
 - 2 connections standard 
 
-## Celestia Media
-Product: Emby and Jellyfin Shares
-Discord: https://discord.gg/6YdXJSJ7wE
-Telegram: No
-Content: 2.3K M, 2K TV Shows / Anime, Kids, 4K, Bollywood
-Location: Canada w/ CDN
-Prices: Starts at $5 CAD
-Payment Type: PayPal, Stripe, Crypto
-
-
 ### SuitsPlex
 - Products: PlexShares, Plex Shares
 - Discord - [https://discord.gg/jCh9QsyxUH](https://discord.gg/7fX42VD)
