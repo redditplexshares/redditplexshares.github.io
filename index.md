@@ -11,7 +11,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Duck Entertainment
 - Products: PlexShares, Plex Shares, TV
-- Discord - [https://discord.iduck.xyz]([https://discord.gg/y8jRNZC6hS](https://discord.iduck.xyz/?mtm_campaign=Discord%20link))
+- Discord - [https://thelink.icu/jAoqn](https://thelink.icu/jAoqn)
 - Whatsaps - 16602235880
 - Website - [Duck](http://www.ducktv.ing)
 - Content - 30K M, 30K TV Shows / Anime, Kids, Spanish, hindi, XXX 4K
@@ -23,7 +23,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ##  Celestia Media
    Product: Emby and Jellyfin Shares
--  Discord: [https://discord.gg/6YdXJSJ7wE](https://discord.gg/6YdXJSJ7wE)
+-  Discord: [https://thelink.icu/YMwIW](https://thelink.icu/YMwIW)
 -  Content: 2.3K M, 2K TV Shows / Anime, Kids, 4K, Bollywood
 -  Location: Canada w/ CDN
 -  Prices: Starting at $5 CAD/month, multiple plans
