@@ -4,7 +4,7 @@ r/EmbyShares /r/plexshares was the biggest Reddit community where you could choo
 
 Below you are able to find a list with the providers.
 
-If you are a provider and would like to be added/removed from the list please submit a request here:[Discord](https://discord.gg/4d9q4cyMbD).
+If you are a provider and would like to be added/removed from the list please submit a request here:[Discord](https://thelink.icu/BotOo).
 
 ## Providers (emby, jellyfin, plex)
 This website is managed by an independent person who is not affiliated with any of the providers mentioned below.
