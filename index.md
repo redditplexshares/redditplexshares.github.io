@@ -30,6 +30,16 @@ This website is managed by an independent person who is not affiliated with any 
 -  Payment Type: PayPal, Stripe, Crypto
 
 
+## Omegafin 
+- Product: Jellyfin share
+- Discord - [discord ](https://discord.gg/omegaplex-1241288027561660458)
+- Telegram https://t.me/esmailebob 
+- Content - 4K Movies, TV shows, Anime, Music, Books, Audiobooks and adult
+- Server location - Germany
+- CDN - none
+- Prices - 10 USD/month
+- Payment type - Stripe, PayPal and Crypto
+
 ### SuitsPlex
 - Products: PlexShares, Plex Shares
 - Discord - [https://discord.gg/jCh9QsyxUH](https://discord.gg/7fX42VD)
