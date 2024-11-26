@@ -21,7 +21,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Payment type - Paypal, Crypto
 - 2 connections standard 
 
-##  Celestia Media
+###  Celestia Media
    Product: Emby and Jellyfin Shares
 -  Discord: [discord link](https://thelink.icu/YMwIW)
 -  Content: 2.3K M, 2K TV Shows / Anime, Kids, 4K, Bollywood
@@ -30,7 +30,7 @@ This website is managed by an independent person who is not affiliated with any 
 -  Payment Type: PayPal, Stripe, Crypto
 
 
-## Omegafin 
+### Omegafin 
 - Product: Jellyfin share
 - Discord - [discord link](https://discord.gg/omegaplex-1241288027561660458)
 - Telegram https://t.me/esmailebob 
