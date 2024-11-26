@@ -1,4 +1,4 @@
-## Welcome to RedditPlexShares UPDATED 11/14/24
+## Welcome to RedditPlexShares UPDATED 11/26/24
 
 r/EmbyShares /r/plexshares was the biggest Reddit community where you could choose a plex provider. The r/EmbyShares r/plexshares Reddit has been closed on 05/19/2022.
 
