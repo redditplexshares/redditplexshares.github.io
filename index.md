@@ -17,7 +17,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Content - 30K M, 400K TV Shows / Anime, Kids, Spanish, hindi, XXX 4K
 - Server location - EU
 - CDN - US, EU
-- Prices - 10$/month, multiple plans
+- Prices - 8$/month, multiple plans
 - Payment type - Paypal, Crypto
 - 2 connections standard 
 
