@@ -14,7 +14,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Discord - [discord link](https://thelink.icu/jAoqn)
 - Whatsaps - 16602235880
 - Website - [Duck](http://www.ducktv.ing)
-- Content - 30K M, 30K TV Shows / Anime, Kids, Spanish, hindi, XXX 4K
+- Content - 30K M, 400K TV Shows / Anime, Kids, Spanish, hindi, XXX 4K
 - Server location - EU
 - CDN - US, EU 
 - Prices - 10$/month, multiple plans
