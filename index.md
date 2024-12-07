@@ -1,4 +1,4 @@
-## Welcome to Reddit Plex Shares UPDATED 11/26/24
+## Welcome to Reddit Plex Shares UPDATED 12/06/24
 
 r/EmbyShares /r/plexshares was the biggest Reddit community where you could choose a plex provider. The r/EmbyShares r/plexshares Reddit has been closed on 05/19/2022.
 
@@ -14,7 +14,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Discord - [discord link](https://thelink.icu/jAoqn)
 - Whatsaps - 16602235880
 - Website - [Duck](http://www.ducktv.ing)
-- Content - 30K M, 400K TV Shows / Anime, Kids, Spanish, hindi, XXX 4K
+- Content - 30K M, 400K TV Shows / Anime, Kids, 4K
 - Server location - EU
 - CDN - US, EU
 - Prices - 8$/month, multiple plans
