@@ -11,7 +11,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Duck Entertainment
 - Products: PlexShares, Plex Shares, TV
-- Discord - [discord link](https://thelink.icu/xkBDR)
+- Discord - [discord link](https://discord.iduck.xyz)
 - Whatsaps - 16602235880
 - Website - [Duck](http://www.ducktv.ing)
 - Content - 30K M, 400K TV Shows / Anime, Kids, 4K
