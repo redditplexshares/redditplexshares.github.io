@@ -15,14 +15,14 @@ This website is managed by an independent person who is not affiliated with any 
 - Whatsaps - 16602235880
 - Website - [Duck](http://www.ducktv.ing)
 - Content - 30K M, 400K TV Shows / Anime, Kids, 4K
-- Server location - EU
-- CDN - US, EU
+- Server location - EU, US
+- CDN - GLOBAL
 - Prices - 8$/month, multiple plans
 - Payment type - Paypal, Crypto
-- 2 connections standard 
+- 2 connections standard on TV
 
 ###  Celestia Media
-   Product: Emby and Jellyfin Shares
+-  Product: Emby and Jellyfin Shares
 -  Discord: [discord link](https://thelink.icu/YMwIW)
 -  Content: 2.3K M, 2K TV Shows / Anime, Kids, 4K, Bollywood
 -  Location: Canada w/ CDN
