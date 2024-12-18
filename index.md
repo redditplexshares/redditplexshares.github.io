@@ -1,8 +1,8 @@
-## Welcome to Reddit Plex Shares UPDATED 12/06/24
+## Welcome to Reddit Plex Shares UPDATED 12/17/24
 
-r/EmbyShares /r/plexshares was the biggest Reddit community where you could choose a plex provider. The r/EmbyShares r/plexshares Reddit has been closed on 05/19/2022.
+r/EmbyShares r/plexshares was the biggest Reddit community where you could choose a plex provider. The r/EmbyShares r/plexshares Reddit has been closed Banned on 05/19/2022. 
 
-Below you are able to find a list with the providers.
+Below you are able to find a list with the providers of Plax Emby and even Jellyfin shares and appboxes 
 
 If you are a provider and would like to be added/removed from the list please submit a request here:[Discord](https://thelink.icu/BotOo).
 
@@ -77,6 +77,8 @@ This website is managed by an independent person who is not affiliated with any 
 - CDN - Yes
 - Prices - $15/m 1 stream, aditional streams at 5$
 - Payment type - Paypal, Crypto
+
+Waiting for update
 
 ### Founder Plex
 - Products: Plex, Jellyfin and Plexshares
