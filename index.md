@@ -16,7 +16,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Website - [Duck](http://www.ducktv.ing)
 - Content - 30K M, 400K TV Shows / Anime, Kids, 4K
 - Server location - EU, US
-- CDN - GLOBAL
+- CDN - GLOBAL  [Map](https://media.discordapp.net/attachments/1320516916359598173/1320516917017968690/Screenshot_2024-12-22_at_4.21.40_PM.png?ex=676e7ff7&is=676d2e77&hm=36dbe68d2fde57803455b3dd55c9a3d7a5724c5186176fc2a3568383067b0d3d&)
 - Prices - 8$/month, multiple plans
 - Payment type - Paypal, Crypto
 - 2 connections standard on TV
