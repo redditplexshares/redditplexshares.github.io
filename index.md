@@ -69,6 +69,17 @@ This website is managed by an independent person who is not affiliated with any 
 - Prices - 10$/month, multiple plans
 - Payment type - Paypal, Crypto
 
+### Quazar FR
+- Products: Emby Shares
+- Website - https://quazar.cx/
+- Content - Films / Séries / Anime / Docu / Spectacles (French)
+- Server location - EU
+- CDN - Yes
+- Prices - 10€/mois, multiple plans
+- Payment type - CB, Crypto
+- 2 screens
+
+
 ### C-MEDIA
 - Products: Plex & Plexshares
 - Discord - [discord link](https://discord.gg/PFc3KkyT)
