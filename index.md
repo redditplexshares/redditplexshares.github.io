@@ -1,4 +1,4 @@
-## Welcome to Reddit Plex Shares UPDATED 2/16/25
+## Welcome to Reddit Plex Shares UPDATED 3/4/25
 
 r/EmbyShares r/plexshares was the biggest Reddit community where you could choose a plex provider. The r/EmbyShares r/plexshares Reddit has been closed Banned on 05/19/2022. 
 
@@ -132,6 +132,6 @@ Waiting for update
 If you are a provider please submit a request at: [Discord](https://thelink.icu/BotOo).
 
 Clones from Shares, to keep updated 
-redditplexshares
+reddit plex shares
 
 
