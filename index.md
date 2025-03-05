@@ -62,7 +62,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 Name - Shedflix
 - Products: Plex Share
-- Discord - [discord ] https://discord.gg/fdjVZ7g6Nv
+- Discord - [discord ](https://discord.gg/fdjVZ7g6Nv)
 - Telegram - No
 - Content - 3.2k 4k Shows, 820 4k Movies, 32k Movies, 9.3k Shows, 807 Anime, 720 Kids Shows
 - Server location - EU
