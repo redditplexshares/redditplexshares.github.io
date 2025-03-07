@@ -1,4 +1,4 @@
-## Welcome to Reddit Plex Shares UPDATED 3/4/25
+## Welcome to Reddit Plex Shares UPDATED 3/7/25
 
 r/EmbyShares r/plexshares was the biggest Reddit community where you could choose a plex provider. The r/EmbyShares r/plexshares Reddit has been closed Banned on 05/19/2022. 
 
@@ -10,11 +10,11 @@ If you are a provider and would like to be added/removed from the list please su
 This website is managed by an independent person who is not affiliated with any of the providers mentioned below.
 
 ### Duck Entertainment
-- Products: PlexShares, Plex Shares, TV
+- Products: PlexShares, Plex Shares, TV, appboxes, Emby
 - Discord - [discord link](https://discord.iduck.xyz)
 - Whatsaps - 16602235880
 - Website - [Duck](http://www.ducktv.ing)
-- Content - 30K M, 400K TV Shows / Anime, Kids, 4K
+- Content - 30K M, 400K TV Shows / Anime, Kids, 4K Movie/TV, Bollywood, xxx, music, Audiobooks
 - Server location - EU, US
 - CDN - GLOBAL  [speedtest](https://speedtest.iduck.xyz)
 - Prices - 8$/month, multiple plans
@@ -41,13 +41,13 @@ This website is managed by an independent person who is not affiliated with any 
 - Payment type - Stripe, PayPal and Crypto
 
 ### SuitsPlex
-- Products: PlexShares, Plex Shares
-- Discord - [discord link](https://discord.gg/7fX42VD)
-- Telegram
-- Content - 25K M, 10K TV Shows / Anime, Kids, 4K
-- Server location - EU
-- CDN - ?
-- Prices - 10$/month, multiple plans
+- Products: Plex Appbox, Plex Shares,Emby shares,Jellyfin shares,Reseller appbox
+- Discord -  https://discord.gg/HrJCQCdNmk
+- Telegram - NA
+- Content - 4k TV Shows: 550+ ,4k Movies: 2000+,Movies: 35000+,TV Shows: 1000+ ,Anime : 1200+ ,Kids tv shows : 1200+,Anime : 4000 +
+- Server location - EU,USA,Dubai,Singapore
+CDN - Yes
+- Prices - 12$/month, multiple plans
 - Payment type - Paypal, Crypto
 
 ### Project Valhalla
