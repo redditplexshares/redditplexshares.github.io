@@ -60,7 +60,7 @@ CDN - Yes
 - Prices - 7€/month, multiple plans available
 - Payment type - PayPal 
 
-Name - Shedflix
+### Shedflix
 - Products: Plex Share
 - Discord - [discord ](https://discord.gg/fdjVZ7g6Nv)
 - Telegram - No
@@ -69,7 +69,17 @@ Name - Shedflix
 - CDN - Global
 - Prices - $15AUD per Moth
 - Payment type - Ko-Fi, PayPal or CC
-- 
+
+### My Plex
+- Products - Plex Appbox, Plex/Emby/Jellyfin shares, Reseller appbox
+- Discord - https://discord.gg/4GeCR24mA9
+- Telegram - NA
+- Content - 4k TV Shows: 550+ , 4k Movies: 2k+, Movies: 35k+, TV Shows: 2k+ , Kids tv shows : 1k+, Anime : 4k+
+- Server location - US & NL 
+- CDN - Global (Yes)
+- Prices - 13$+/month, multiple plans
+- Payment type - Paypal, Crypto
+
 ### Diamond Media
 - Products: PlexShares, Plex Appboxes
 - Discord - [discord link](https://discord.gg/DNJCD7y)
