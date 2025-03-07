@@ -73,10 +73,11 @@ CDN - Yes
 ### My Plex
 - Products - Plex Appbox, Plex/Emby/Jellyfin shares, Reseller appbox
 - Discord - https://discord.gg/4GeCR24mA9
-- Telegram - NA
+- Telegram - https://t.me/+kRJYinxZhP40MWVh
 - Content - 4k TV Shows: 550+ , 4k Movies: 2k+, Movies: 35k+, TV Shows: 2k+ , Kids tv shows : 1k+, Anime : 4k+
 - Server location - US & NL 
 - CDN - Global (Yes)
+
 - Prices - 13$+/month, multiple plans
 - Payment type - Paypal, Crypto
 
