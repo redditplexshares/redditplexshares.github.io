@@ -72,7 +72,7 @@ CDN - Yes
 
 ### My Plex
 - Products - Plex Appbox, Plex/Emby/Jellyfin shares, Reseller appbox
-- Discord - https://discord.gg/4GeCR24mA9
+- Discord - [https://discord.gg/4GeCR24mA9](https://discord.gg/4GeCR24mA9)
 - Telegram - https://t.me/+kRJYinxZhP40MWVh
 - Content - 4k TV Shows: 550+ , 4k Movies: 2k+, Movies: 35k+, TV Shows: 2k+ , Kids tv shows : 1k+, Anime : 4k+
 - Server location - US & NL 
@@ -91,7 +91,7 @@ CDN - Yes
 
 ### Quazar FR
 - Products: Emby Shares
-- Website - https://quazar.cx/
+- Website - [https://quazar.cx/](https://quazar.cx/)
 - Content - Films / Séries / Anime / Docu / Spectacles (French)
 - Server location - EU
 - CDN - Yes
@@ -101,7 +101,7 @@ CDN - Yes
 
 ### The Boys Server
 - Products - Plex/Emby/Jellyfin shares, Reseller appbox
-- Discord - https://discord.gg/phcTGjfxsW
+- Discord - [https://discord.gg/phcTGjfxsW](https://discord.gg/phcTGjfxsW)
 - Content - 4k TV Shows: 550+ , Kids tv shows : 1k+, Anime : 4k+,44,000+ Movies, 22,000+ TV Shows, 1900+ 4k Movies.
 - Server location - US & Singapore,Germany
 - CDN - Global (Yes)
@@ -110,7 +110,7 @@ CDN - Yes
 
 ### SpartanTV
 - Products: App-boxes, Plex Shares, TV
-- Discord - https://discord.gg/XyVGPvmxyk
+- Discord - [https://discord.gg/XyVGPvmxyk](https://discord.gg/XyVGPvmxyk)
 - Content - 30K M, 12K TV Shows / Anime, Kids, 4K
 - Server location - EU
 - CDN - Available worldwide
