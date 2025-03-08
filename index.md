@@ -77,7 +77,6 @@ CDN - Yes
 - Content - 4k TV Shows: 550+ , 4k Movies: 2k+, Movies: 35k+, TV Shows: 2k+ , Kids tv shows : 1k+, Anime : 4k+
 - Server location - US & NL 
 - CDN - Global (Yes)
-
 - Prices - 13$+/month, multiple plans
 - Payment type - Paypal, Crypto
 
@@ -127,10 +126,7 @@ CDN - Yes
 - CDN - Yes
 - Prices - $15/m 1 stream, aditional streams at 5$
 - Payment type - Paypal, Crypto
-
 Waiting for update
-
-
 
 ### Rogue Streamz
 - Products: Plex& Plex Appboxes and Shares
