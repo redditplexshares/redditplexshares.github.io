@@ -32,7 +32,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Omegafin 
 - Product: Jellyfin share
-- Discord - [discord link](https://discord.gg/omegdddx-1241288027561660458)
+- Discord - [broken](https://discord.gg/omegdddx-1241288027561660458)
 - Telegram https://t.me/esmailebob 
 - Content - 4K Movies, TV shows, Anime, Music, Books, Audiobooks and adult
 - Server location - Germany
