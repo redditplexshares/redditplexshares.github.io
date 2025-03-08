@@ -42,7 +42,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### SuitsPlex
 - Products: Plex Appbox, Plex Shares,Emby shares,Jellyfin shares,Reseller appbox
-- Discord -  https://discord.gg/HrJCQCdNmk
+- Discord -  [https://discord.gg/HrJCQCdNmk](https://discord.gg/HrJCQCdNmk)
 - Telegram - NA
 - Content - 4k TV Shows: 550+ ,4k Movies: 2000+,Movies: 35000+,TV Shows: 1000+ ,Anime : 1200+ ,Kids tv shows : 1200+,Anime : 4000 +
 - Server location - EU,USA,Dubai,Singapore
