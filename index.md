@@ -18,7 +18,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Server location - EU, US
 - CDN - GLOBAL  [speedtest](https://speedtest.iduck.xyz)
 - Prices - 8$/month, multiple plans
-- Payment type - Paypal, Crypto
+- Payment type - Paypal, stripe, credit card, apple pay, Crypto
 - 2 connections standard on TV
 
 ###  Celestia Media
