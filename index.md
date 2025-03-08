@@ -100,6 +100,24 @@ CDN - Yes
 - Payment type - CB, Crypto
 - 2 screens
 
+### The Boys Server
+- Products - Plex/Emby/Jellyfin shares, Reseller appbox
+- Discord - https://discord.gg/phcTGjfxsW
+- Content - 4k TV Shows: 550+ , Kids tv shows : 1k+, Anime : 4k+,44,000+ Movies, 22,000+ TV Shows, 1900+ 4k Movies.
+- Server location - US & Singapore,Germany
+- CDN - Global (Yes)
+- Prices - 15$/month, multiple plans
+- Payment type - Paypal, Crypto
+
+### SpartanTV
+- Products: App-boxes, Plex Shares, TV
+- Discord - https://discord.gg/XyVGPvmxyk
+- Content - 30K M, 12K TV Shows / Anime, Kids, 4K
+- Server location - EU
+- CDN - Available worldwide
+- Prices - 6$/month
+- Payment type - Crypto
+-  1 Connection
 
 ### C-MEDIA
 - Products: Plex & Plexshares
@@ -112,14 +130,7 @@ CDN - Yes
 
 Waiting for update
 
-### Founder Plex
-- Products: Plex, Jellyfin and Plexshares
-- Discord - Need new link !
-- Content - 33K M, 9K TV Shows / 4K, Kids
-- Server location - US & NL
-- CDN - ?
-- Prices - 10$/month, multiple plans
-- Payment type - Paypal, Crypto
+
 
 ### Rogue Streamz
 - Products: Plex& Plex Appboxes and Shares
