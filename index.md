@@ -128,6 +128,17 @@ CDN - Yes
 - Payment type - Paypal, Crypto
 Waiting for update
 
+### Breaking Plex
+- Products: PlexShares/emby/jellyfin shares and appbox, TV
+- Discord - https://discord.gg/SgPtSQWnzB
+- Content - 70K M, 50K TV Shows / Anime, Kids, 4K Movie/TV, Bollywood, 
+- Server location - EU, US,Middle east
+- CDN - GLOBAL ,dubai,atlanta,singapore
+- Prices - 12.99$/month, multiple plans
+- Payment type - Paypal, Crypto,wise
+- 2 connections standard on TV
+
+
 ### Rogue Streamz
 - Products: Plex& Plex Appboxes and Shares
 - Website - Need new link !
