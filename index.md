@@ -29,17 +29,6 @@ This website is managed by an independent person who is not affiliated with any 
 -  Prices: Starting at $5 CAD/month, multiple plans
 -  Payment Type: PayPal, Stripe, Crypto
 
-
-### Omegafin 
-- Product: Jellyfin share
-- Discord - [broken](https://discord.gg/omegdddx-1241288027561660458)
-- Telegram https://t.me/esmailebob 
-- Content - 4K Movies, TV shows, Anime, Music, Books, Audiobooks and adult
-- Server location - Germany
-- CDN - none
-- Prices - 10 USD/month
-- Payment type - Stripe, PayPal and Crypto
-
 ### SuitsPlex
 - Products: Plex Appbox, Plex Shares,Emby shares,Jellyfin shares,Reseller appbox
 - Discord -  [https://discord.gg/HrJCQCdNmk](https://discord.gg/HrJCQCdNmk)
