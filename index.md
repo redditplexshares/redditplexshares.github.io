@@ -127,6 +127,14 @@ Waiting for update
 - Payment type - Paypal, Crypto,wise
 - 2 connections standard on TV
 
+### TCH
+- Discord - https://discord.com/invite/tchprovides
+- Telegram No
+- Content - 72k Movies, 19k Shows , Anime, 4k, Kids TV
+- Server location - Canada
+- CDN - Yes
+- Prices - $10 Monthly
+- Payment type - Crypto, PayPal, Stripe
 
 ### Rogue Streamz
 - Products: Plex& Plex Appboxes and Shares
