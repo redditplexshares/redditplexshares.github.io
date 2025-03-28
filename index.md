@@ -17,7 +17,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Content - 30K M, 400K TV Shows / Anime, Kids, 4K Movie/TV, Bollywood, xxx, music, Audiobooks
 - Server location - EU, US
 - CDN - GLOBAL  [speedtest](https://speedtest.iduck.xyz)
-- Prices - 8$/month, multiple plans
+- Prices - 8$/month, multiple plans %50 off for new users promo code in discord or email us
 - Payment type - Paypal, stripe, credit card, apple pay, Crypto
 - 2 connections standard on TV
 
