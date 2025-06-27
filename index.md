@@ -14,11 +14,11 @@ This website is managed by an independent person who is not affiliated with any 
 - Discord - [discord link](https://discord.ducktv.ing)
 - Whatsaps - 16602235880
 - Website - [Duck](http://www.ducktv.ing)
-- Content - 30K M, 400K TV Shows / Anime, Kids, 4K Movie/TV, Bollywood, xxx, music, Audiobooks
+- Content - 3PB 30K M, 400K TV Shows / Anime, Kids, 4K Movie/TV, Bollywood, xxx, music, Audiobooks All local CEPH 
 - Server location - EU, US
 - CDN - GLOBAL  [speedtest](https://speedtest.iduck.xyz)
 - Prices - 8$/month, multiple plans %50 off for new users promo code in discord or email us
-- Payment type - Paypal, stripe, credit card, apple pay, Crypto
+- Payment type - Paypal, stripe, credit card, apple pay, Crypto, ach, zelle, etc
 - 2 connections standard on TV
 
 ###  Celestia Media
@@ -106,6 +106,15 @@ CDN - Yes
 - Prices - 6$/month
 - Payment type - Crypto
 -  1 Connection
+
+### UDI
+- Products:  Plex Emby Jellyfin Shares . Plex/Emby Appboxes /Baremetals /Reseller Servers
+- Discord - [[https://discord.gg/XyVGPvmxyk](https://discord.gg/2mUgP7t9w3)]
+- Content - 3.2 PB Local Storage 63,000+ Movies |  20,000+ TV Shows |Includes Movies/Tv shows/4K/4kDV
+- Server location -Finland
+- CDN - No but not needed
+- Prices - ?/month
+- Payment type - 47+ Easy Payment Options Link
 
 ### C-MEDIA
 - Products: Plex & Plexshares
