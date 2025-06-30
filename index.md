@@ -110,7 +110,7 @@ CDN - Yes
 ### UDI
 - Products:  Plex Emby Jellyfin Shares . Plex/Emby Appboxes /Baremetals /Reseller Servers
 - Discord - [[https://discord.gg/XyVGPvmxyk](https://discord.gg/2mUgP7t9w3)]
-- Content - 3.2 PB Local Storage 63,000+ Movies |  20,000+ TV Shows |Includes Movies/Tv shows/4K/4kDV
+- Content - 3.2 PB Local Storage 63,000+ Movies 20,000+ TV Shows 
 - Server location -Finland
 - CDN - No but not needed
 - Prices - ?/month
