@@ -20,6 +20,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Prices - 8$/month, multiple plans %50 off for new users promo code in discord or email us
 - Payment type - Paypal, stripe, credit card, apple pay, Crypto, ach, zelle, etc
 - 2 connections standard on TV
+- Requst bot no limits 
 
 ###  Celestia Media
 -  Product: Emby and Jellyfin Shares
