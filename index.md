@@ -22,6 +22,16 @@ This website is managed by an independent person who is not affiliated with any 
 - 2 connections standard on TV
 - Requst bot no limits 
 
+### 3mbytv
+- Products: Emby Share-Box and Plex Share-Limited
+- Discord - https://discord.gg/pHwm62TQ2p
+- Telegram
+- Content - 50K movies and over 5k Series
+- Server location - Mixed. USA/CA
+- CDN - base on location
+- Prices - 10$ 5 con limit. No transcoding limits
+- Payment type -stripe, cashapp
+
 ###  Celestia Media
 -  Product: Emby and Jellyfin Shares
 -  Discord: [discord link](https://thelink.icu/YMwIW)
