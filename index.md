@@ -32,13 +32,14 @@ This website is managed by an independent person who is not affiliated with any 
 - Prices - 10$ 5 con limit. No transcoding limits
 - Payment type -stripe, cashapp
 
-###  Celestia Media
--  Product: Emby and Jellyfin Shares
--  Discord: [discord link](https://thelink.icu/YMwIW)
--  Content: 2.3K M, 2K TV Shows / Anime, Kids, 4K, Bollywood
--  Location: Canada w/ CDN
--  Prices: Starting at $5 CAD/month, multiple plans
--  Payment Type: PayPal, Stripe, Crypto
+### Celestia Media
+- Products: Emby Share, Jellyfin Shares and Emby Appbox
+- Discord - [Discord Link](https://thelink.icu/YMwIW)
+- Content - Movies: 3880, TV Shows: 2057, Anime: 636, Anime Movie: 140, 4K Movies: 203, 4K TV Shows: 5, Children TV: 139
+- Server Location - Canada
+- CDN - Gobal
+- Prices - Shares starting at $5 CAD/month, multiple plans | Appbox starting at $15 CAD/month, multiple plans
+- Payment type - PayPal, Stripe, Crypto
 
 ### SuitsPlex
 - Products: Plex Appbox, Plex Shares,Emby shares,Jellyfin shares,Reseller appbox
