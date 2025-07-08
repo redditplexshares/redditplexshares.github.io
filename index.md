@@ -38,9 +38,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Content - Movies: 3880, TV Shows: 2057, Anime: 636, Anime Movie: 140, 4K Movies: 203, 4K TV Shows: 5, Children TV: 139
 - Server Location - Canada
 - CDN - Yes, global
-- Prices:
-  - Shares starting at $5 CAD/month, multiple plans
-  - Appbox starting at $15 CAD/month, multiple plans
+- Prices: Shares starting at $5 CAD/month, multiple plans Appbox starting at $15 CAD/month, multiple plans
 - Payment type - PayPal, Stripe, Crypto
 
 ### SuitsPlex
@@ -49,7 +47,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Telegram - NA
 - Content - 4k TV Shows: 550+ ,4k Movies: 2000+,Movies: 35000+,TV Shows: 1000+ ,Anime : 1200+ ,Kids tv shows : 1200+,Anime : 4000 +
 - Server location - EU,USA,Dubai,Singapore
-CDN - Yes
+- CDN - Yes
 - Prices - 12$/month, multiple plans
 - Payment type - Paypal, Crypto
 
