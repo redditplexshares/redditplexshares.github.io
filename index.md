@@ -17,7 +17,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Content - 3PB 30K M, 400K TV Shows / Anime, Kids, 4K Movie/TV, Bollywood, xxx, music, Audiobooks All local CEPH 
 - Server location - EU, US
 - CDN - GLOBAL  [speedtest](https://speedtest.iduck.xyz)
-- Prices - 8$/month, multiple plans %50 off for new users promo code in discord or email us
+- Prices 8$/month, multiple plans %50 off for new users promo code in discord or email us
 - Payment type - Paypal, stripe, credit card, apple pay, Crypto, ach, zelle, etc
 - 2 connections standard on TV
 - Requst bot no limits 
@@ -37,8 +37,10 @@ This website is managed by an independent person who is not affiliated with any 
 - Discord - [Discord Link](https://thelink.icu/YMwIW)
 - Content - Movies: 3880, TV Shows: 2057, Anime: 636, Anime Movie: 140, 4K Movies: 203, 4K TV Shows: 5, Children TV: 139
 - Server Location - Canada
-- CDN - Gobal
-- Prices - Shares starting at $5 CAD/month, multiple plans | Appbox starting at $15 CAD/month, multiple plans
+- CDN - Yes, global
+- Prices:
+  - Shares starting at $5 CAD/month, multiple plans
+  - Appbox starting at $15 CAD/month, multiple plans
 - Payment type - PayPal, Stripe, Crypto
 
 ### SuitsPlex
