@@ -11,7 +11,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Duck Entertainment
 - Products: PlexShares, Plex Shares, TV, appboxes, Emby
-- Discord - [discord link](https://discord.ducktv.ing)
+- Discord - [discord link](https://discord.gg/y8jRNZC6hS)
 - Whatsaps - 16602235880
 - Website - [Duck](http://www.ducktv.ing)
 - Content - 3PB 30K M, 400K TV Shows / Anime, Kids, 4K Movie/TV, Bollywood, xxx, music, Audiobooks All local CEPH 
