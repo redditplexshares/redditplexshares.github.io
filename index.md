@@ -34,7 +34,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Celestia Media
 - Products: Emby Share, Jellyfin Shares and Emby Appbox
-- Discord - [Discord Link](https://thelink.icu/YMwIW)
+- Discord - [Discord Link](https://thelink.icu/YM3wIW)
 - Content - Movies: 3880, TV Shows: 2057, Anime: 636, Anime Movie: 140, 4K Movies: 203, 4K TV Shows: 5, Children TV: 139
 - Server Location - Canada
 - CDN - Yes, global
@@ -53,7 +53,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Atlas
 - Products: Plex Appbox, Plex Share, Emby Share
-- Discord - [discord ]([url](https://discord.gg/gWF73VZvVf))
+- Discord - [discord ]([url](https://discord.gg/gWF73dZvVf))
 - Telegram
 - Content - Movies: 20,000+, TV Shows: 6,500+, 4k Movies: 3,500+, Anime: 500+ ceph storage cluster
 - Server location - US
@@ -85,7 +85,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Shedflix
 - Products: Plex Share
-- Discord - [discord ](https://discord.gg/fdjVZ7g6Nv)
+- Discord - [discord ](https://discord.gg/fdjVZrg6Nv)
 - Telegram - No
 - Content - 3.2k 4k Shows, 820 4k Movies, 32k Movies, 9.3k Shows, 807 Anime, 720 Kids Shows
 - Server location - EU
@@ -105,7 +105,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Diamond Media
 - Products: PlexShares, Plex Appboxes
-- Discord - [discord link](https://discord.gg/DNJCD7y)
+- Discord - [discord link](https://discord.gg/DNJC47y)
 - Content - 73K M, 21K TV Shows / 4K, 4K DV, Anime
 - Server location - EU & US
 - CDN - Yes
@@ -124,7 +124,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### The Boys Server
 - Products - Plex/Emby/Jellyfin shares, Reseller appbox
-- Discord - [https://discord.gg/phcTGjfxsW](https://discord.gg/phcTGjfxsW)
+- Discord - [https://discord.gg/phcTGtfxsW](https://discord.gg/phcTGjfxsW)
 - Content - 4k TV Shows: 550+ , Kids tv shows : 1k+, Anime : 4k+,44,000+ Movies, 22,000+ TV Shows, 1900+ 4k Movies.
 - Server location - US & Singapore,Germany
 - CDN - Global (Yes)
@@ -133,7 +133,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### SpartanTV
 - Products: App-boxes, Plex Shares, TV
-- Discord - [https://discord.gg/XyVGPvmxyk](https://discord.gg/XyVGPvmxyk)
+- Discord - [https://discord.gg/XyVwPvmxyk](https://discord.gg/XyVGPvmxyk)
 - Content - 30K M, 12K TV Shows / Anime, Kids, 4K
 - Server location - EU
 - CDN - Available worldwide
@@ -143,7 +143,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### UDI
 - Products:  Plex Emby Jellyfin Shares . Plex/Emby Appboxes /Baremetals /Reseller Servers
-- Discord - [https://discord.gg/XyVGPvmxyk](https://discord.gg/2mUgP7t9w3)
+- Discord - [https://discord.gg/XyVGPvmx5k](https://discord.gg/2mUgP7t9w3)
 - Content - 3.2 PB Local Storage 63,000+ Movies 20,000+ TV Shows 
 - Server location -Finland
 - CDN - No but not needed
