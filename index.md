@@ -10,7 +10,7 @@ If you are a provider and would like to be added/removed from the list please su
 This website is managed by an independent person who is not affiliated with any of the providers mentioned below.
 
 ### Duck Entertainment
-- Products: PlexShares, Plex Shares, TV, appboxes, Emby
+- Products PlexShares, Plex Shares, TV, appboxes, Emby
 - Discord - [discord link](https://discord.iduck.xyz)
 - Whatsaps - 16602235880
 - Website - [Duck](http://www.ducktv.ing)
