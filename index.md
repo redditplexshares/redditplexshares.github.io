@@ -11,12 +11,11 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Duck Entertainment
 - Products PlexShares, Plex Shares, TV, appboxes, Emby
-- Discord - [discord link](https://discord.iduck.xyz)
+- Discord - [discord link](https://discord.ducktv.ing)
 - Whatsaps - 16602235880
 - Website - [Duck](http://www.ducktv.ing)
 - Content - 3PB 30K M, 400K TV Shows / Anime, Kids, 4K Movie/TV, Bollywood, xxx, music, Audiobooks All local CEPH 
 - Server location - EU, US
-- CDN - GLOBAL  [speedtest](https://speedtest.iduck.xyz)
 - Prices 8$/month, multiple plans %50 off for new users promo code in discord or email us
 - Payment type - Paypal, stripe, credit card, apple pay, Crypto, ach, zelle, etc
 - 2 connections standard on TV
